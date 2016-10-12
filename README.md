@@ -1,6 +1,6 @@
 BioSearch
 ====
-![alt tag](https://raw.githubusercontent.com/th86/BioSearch/master/example.jpg)
+![alt tag](https://raw.githubusercontent.com/th86/BioSearch/master/example.png)
 
 This Google Chrome extension shows the GeneCards, UCSC GenomeBrowser, PubMed, BioStar, Stack Overflow search result of selected text. 
 
