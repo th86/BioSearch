@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "BioSearch",
+  "description": "This extension shows the GeneCards, GenomeBrowser, PubMed, and BioStar search result of seletected text",
+  "version": "0.1",
+  "background": {
+    "scripts": ["biosearch.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ]
+}
